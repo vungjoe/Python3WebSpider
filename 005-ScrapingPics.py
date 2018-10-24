@@ -4,7 +4,7 @@ import requests
 import os
 
 url = 'https://www.nationalgeographic.com/content/dam/photography/rights-exempt/photos-of-the-week/181012-potw/01-potw-181012.adapt.885.1.jpg'
-root = 'D://nationalgeographic//'
+root = 'D:/230 - nationalgeographic/'
 path = root + url.split('/')[-1]
 
 try:
